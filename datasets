@@ -1,0 +1,24 @@
+双语数据集
+1. NIST Open Machine Translation Evaluation (OpenMT)
+   网址：http://www.nist.gov/itl/iad/mig/openmt.cfm 
+   语言：Arabic-to-English and Chinese-to-English
+   语料：informal data genres (SMS/Chat and Conversational Telephone Speech)
+   
+2. IWSLT(International Workshop on Spoken Language Translation)
+   网址：http://workshop2016.iwslt.org/59.php
+   语言：多语种，含中文
+   语料：TED talk subtitle等
+   
+3. ACL WMT
+   网址：http://www.statmt.org/wmt16/
+   语言：每年不同，欧洲语系-英语为主
+   语料：多个task, NEWS, IT-DOMAIN, BIOMEDICAL等领域
+
+4. 网页抓取
+
+单语数据集
+1. Wikipedia
+  网址：https://dumps.wikimedia.org/enwiki/
+2. News
+  Reuters Corpora：http://trec.nist.gov/data/reuters/reuters.html
+3. 网页抓取
