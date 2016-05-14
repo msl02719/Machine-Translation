@@ -1,0 +1,39 @@
+新论文：
+1. A Character-level Decoder without Explicit Segmentation for Neural Machine Translation
+论文：http://arxiv.org/abs/1603.06147
+代码：https://github.com/nyu-dl/dl4mt-cdec
+主要思想： an attention-based encoder–decoder with a subword-level encoder and a character-level decoder
+
+2. Effective Approaches to Attention-based Neural Machine Translationsm
+论文：http://nlp.stanford.edu/pubs/emnlp15_attn.pdf
+代码：https://github.com/lmthang/nmt.matlab
+主要思想：global and local attention
+
+3. Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models
+论文：http://arxiv.org/abs/1604.00788
+代码：发表后放出
+主要思想：restricted vocabulary->open vocabulary
+
+4. Transfer Learning for Low-Resource Neural Machine Translation
+论文：http://arxiv.org/abs/1604.02201
+主要思想：迁移学习改进小语种翻译
+
+5. Modeling Coverage for Neural Machine Translation
+论文：http://arxiv.org/abs/1601.04811
+主要思想：加入past信息解决over-translate or under-translate.
+
+经典论文：
+1. Neural Machine Translation by Jointly Learning to Align and Translate 
+论文：http://arxiv.org/pdf/1409.0473v2.pdf
+代码：https://github.com/mila-udem/blocks-examples
+主要思想：第一次提出rnn encoder-decoder
+
+2. Sequence to Sequence Learning with Neural Networks
+论文：http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks
+主要思想：第一次提出LSTM
+
+综述文章：
+1. Introduction to Neural Machine Translation with GPUs
+part 1: https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/
+part 2: https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/
+part 3: https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/
