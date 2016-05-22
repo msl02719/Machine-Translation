@@ -23,14 +23,14 @@
 主要思想：加入past信息解决over-translate or under-translate.
 
 经典论文：
-1. Neural Machine Translation by Jointly Learning to Align and Translate 
+1. Sequence to Sequence Learning with Neural Networks
+论文：http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks
+主要思想：第一次提出LSTM encoder-decoder
+
+2. Neural Machine Translation by Jointly Learning to Align and Translate 
 论文：http://arxiv.org/pdf/1409.0473v2.pdf
 代码：https://github.com/mila-udem/blocks-examples
-主要思想：第一次提出rnn encoder-decoder
-
-2. Sequence to Sequence Learning with Neural Networks
-论文：http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks
-主要思想：第一次提出LSTM
+主要思想：第一次提出attention和GRU
 
 综述文章：
 1. Introduction to Neural Machine Translation with GPUs
