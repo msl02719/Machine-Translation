@@ -11,7 +11,7 @@
 
 3. Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models
 论文：http://arxiv.org/abs/1604.00788
-代码：发表后放出
+代码：https://github.com/lmthang/nmt.matlab
 主要思想：restricted vocabulary->open vocabulary
 
 4. Transfer Learning for Low-Resource Neural Machine Translation
